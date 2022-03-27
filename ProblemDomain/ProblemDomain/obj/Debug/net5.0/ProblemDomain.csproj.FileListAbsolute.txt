@@ -1,0 +1,16 @@
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\bin\Debug\net5.0\ProblemDomain.exe
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\bin\Debug\net5.0\ProblemDomain.deps.json
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\bin\Debug\net5.0\ProblemDomain.runtimeconfig.json
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\bin\Debug\net5.0\ProblemDomain.runtimeconfig.dev.json
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\bin\Debug\net5.0\ProblemDomain.dll
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\bin\Debug\net5.0\ref\ProblemDomain.dll
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\bin\Debug\net5.0\ProblemDomain.pdb
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ProblemDomain.csproj.AssemblyReference.cache
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ProblemDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ProblemDomain.AssemblyInfoInputs.cache
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ProblemDomain.AssemblyInfo.cs
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ProblemDomain.csproj.CoreCompileInputs.cache
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ProblemDomain.dll
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ref\ProblemDomain.dll
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ProblemDomain.pdb
+C:\Users\youse\Desktop\programs\Lab03-System.IO\ProblemDomain\ProblemDomain\obj\Debug\net5.0\ProblemDomain.genruntimeconfig.cache
