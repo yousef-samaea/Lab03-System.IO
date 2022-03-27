@@ -11,3 +11,7 @@ i Wrote a method in that finds the maximum value in the array and array is not s
 
 ![image](/resalt.png)
 
+
+## Screen shot of tests:
+
+![image](/tests.png)

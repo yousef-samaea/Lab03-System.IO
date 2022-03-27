@@ -26,7 +26,7 @@ namespace TestProject1
             int[] arr2 = { 1, 2, 3, 4, 5 };
             int[] arr3 = { 1, 2, 3 };
             Assert.Equal(9, Program.calAverage(arr1));
-            Assert.Equal(15, Program.calAverage(arr2));
+            Assert.Equal(3, Program.calAverage(arr2));
             Assert.Equal(2, Program.calAverage(arr3));
         }
         [Fact]
@@ -42,7 +42,7 @@ namespace TestProject1
         public void Test5()
         {
             Assert.Equal(-5, Program.MaxNumber(new int[] { -5, -7, -12, -15, -19 }));
-            Assert.Equal(-66, Program.MaxNumber(new int[] { 4, 8, 9, 13, 66 }));
+            Assert.Equal(66, Program.MaxNumber(new int[] { 4, 8, 9, 13, 66 }));
             Assert.Equal(5, Program.MaxNumber(new int[] { 5, 5, 5, 5, 5 }));
         }
 

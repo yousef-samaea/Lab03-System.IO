@@ -94,15 +94,36 @@ namespace ProblemDomain
         // challenge 3
         public static void daimond()
         {
-            Console.WriteLine("    *    ");
-            Console.WriteLine("   ***   ");
-            Console.WriteLine("  *****  ");
-            Console.WriteLine(" ******* ");
-            Console.WriteLine("*********");
-            Console.WriteLine(" ******* ");
-            Console.WriteLine("  *****  ");
-            Console.WriteLine("   ***   ");
-            Console.WriteLine("    *    ");
+            for (int i = 1; i <= 5; i++)
+            {
+                int countar1 = (i * 2) - 1;
+
+                for (int j = 1; j <= (6 - i); j++)
+                {
+                    Console.Write(" ");
+                }
+
+                for (int k = 1; k <= countar1; k++)
+                {
+                    Console.Write("*");
+                }
+
+                Console.WriteLine("");
+
+            }
+            int counter2 = 2;
+            for (int i = 1; i <= 4; i++)
+            {
+                for (int j = 1; j <= (i + 1); j++)
+                    Console.Write(" ");
+
+                for (int k = 1; k <= 9 - counter2; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine("");
+                counter2 += 2;
+            }
         }
         // challenge 4
         public static int appears(int[] arr)
@@ -148,6 +169,7 @@ namespace ProblemDomain
             Console.WriteLine("enter a word ");
             string word = Console.ReadLine();
             File.AppendAllText(filePath, word);
+            File.AppendAllText(filePath, " ");
         }
         // challenge 7
         public static void ReadAWord(String filePath)
